@@ -1,0 +1,7 @@
+{
+    "material-icon-theme.folders.associations": {
+        "Blog": "Content",
+        "Works": "Resource",
+        "About": "Admin"
+    }
+}

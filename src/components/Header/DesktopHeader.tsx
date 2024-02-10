@@ -2,6 +2,7 @@ import React from "react";
 import MainLogo from "assets/logo/main_logo.svg";
 import styled from "styled-components";
 import { Link } from "react-router-dom";
+import { useLocation } from "react-router-dom";
 
 function DesktopHeader() {
     const menuLinkData = [
@@ -11,6 +12,9 @@ function DesktopHeader() {
         { linkTo: "/about", linkTitle: "about" },
     ];
 
+    const { pathname } = useLocation();
+    console.log(pathname);
+
     return (
         <DesktopHeaderContainer>
             <LogoLink to={"/"}>
@@ -18,7 +22,7 @@ function DesktopHeader() {
             </LogoLink>
             <LinkContainer>
                 {menuLinkData.map(({ linkTo, linkTitle }) => (
-                    <MenuLink key={linkTitle} to={linkTo}>
+                    <MenuLink key={linkTitle} to={linkTo} $isCurrentPage={pathname === linkTo}>
                         {linkTitle}
                     </MenuLink>
                 ))}
@@ -48,12 +52,12 @@ const LinkContainer = styled.section`
     align-items: center;
 `;
 
-const MenuLink = styled(Link)`
-    color: #868e96;
+const MenuLink = styled(Link)<{ $isCurrentPage: boolean }>`
+    color: ${({ $isCurrentPage }) => ($isCurrentPage ? "#343a40" : "#868e96")};
     font-family: Pretendard;
     font-size: 1rem;
     font-style: normal;
-    font-weight: 600;
+    font-weight: ${({ $isCurrentPage }) => ($isCurrentPage ? "700" : "500")};
     line-height: normal;
     text-decoration: none;
     display: flex;
@@ -61,4 +65,8 @@ const MenuLink = styled(Link)`
     justify-content: center;
     align-items: center;
     gap: 10px;
+
+    &:hover {
+        color: #343a40;
+    }
 `;

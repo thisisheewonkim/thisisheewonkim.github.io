@@ -5,7 +5,7 @@ import { isMobile } from "react-device-detect";
 
 function Home() {
     return (
-        <MainContainer isMobile={isMobile}>
+        <MainContainer>
             <Header />
         </MainContainer>
     );
@@ -13,9 +13,8 @@ function Home() {
 
 export default Home;
 
-const MainContainer = styled.main<{ isMobile: boolean }>`
+const MainContainer = styled.main`
     width: 100%;
-    /* max-width: ${({ isMobile }) => (isMobile ? "62.5rem" : "calc(100% - 40px)")}; */
     display: flex;
     flex-direction: column;
 `;

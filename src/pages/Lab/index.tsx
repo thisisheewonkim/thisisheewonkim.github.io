@@ -1,7 +1,7 @@
 import React from "react";
 
-function Works() {
+function Lab() {
     return <div></div>;
 }
 
-export default Works;
+export default Lab;

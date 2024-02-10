@@ -1,7 +1,11 @@
 {
     "material-icon-theme.folders.associations": {
         "Blog": "Content",
-        "Works": "Resource",
-        "About": "Admin"
+        "Lab": "Resource",
+        "About": "Admin",
+        "Header": "Components",
+        "BlogContents": "Components",
+        "Menus": "Components",
+        "logo": "Images"
     }
 }

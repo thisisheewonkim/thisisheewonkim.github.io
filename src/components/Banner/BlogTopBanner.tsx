@@ -25,7 +25,7 @@ const TopBannerContainer = styled.section`
 
 const BannerContent = styled.section`
     max-width: 1000px;
-    padding: 50px 40px;
+    padding: 40px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;

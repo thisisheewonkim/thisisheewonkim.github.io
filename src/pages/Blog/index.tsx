@@ -16,7 +16,10 @@ function Blog() {
                 <LatestPost />
                 <PostListContainer>
                     <BlogTagMenu />
-                    <BlogPost />
+                    <PostList>
+                        <BlogPost />
+                        <BlogPost />
+                    </PostList>
                 </PostListContainer>
             </PostContainer>
         </MainContainer>
@@ -27,8 +30,10 @@ export default Blog;
 
 const MainContainer = styled.main`
     width: 100%;
+    height: 100%;
     display: flex;
     flex-direction: column;
+    padding-bottom: 100px;
 `;
 
 const PostContainer = styled.section`
@@ -45,4 +50,18 @@ const PostContainer = styled.section`
 const PostListContainer = styled.section`
     width: 100%;
     max-width: 1000px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 40px;
+`;
+
+const PostList = styled.section`
+    display: flex;
+    width: 100%;
+    max-width: 1000px;
+    align-items: flex-start;
+    align-content: flex-start;
+    gap: 40px;
+    flex-wrap: wrap;
 `;

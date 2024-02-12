@@ -31,7 +31,6 @@ const LatestPostContainer = styled.section`
     display: flex;
     align-items: flex-start;
     gap: 40px;
-    margin-top: 40px;
 `;
 
 const LatesstPostThumbnailContainer = styled.section`

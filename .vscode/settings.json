@@ -6,6 +6,7 @@
         "Header": "Components",
         "BlogContents": "Components",
         "Menus": "Components",
-        "logo": "Images"
+        "logo": "Images",
+        "Banner": "Components"
     }
 }

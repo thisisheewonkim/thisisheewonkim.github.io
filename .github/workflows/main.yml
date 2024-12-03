@@ -18,9 +18,12 @@ jobs:
           GH_API_KEY: ${{ secrets.GITHUB }}
         run: yarn build
 
+      - name: check BUILD_DIR
+        run: ls -al public/
+
       - name: deploy
-        uses: maxheld83/ghpages@v0.2.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_PAT: ${{ secrets.GITHUB }}
-          BUILD_DIR: 'public/'
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: master

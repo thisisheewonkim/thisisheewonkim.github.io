@@ -15,7 +15,7 @@
   margin-left: -1.2em;
   padding-right: 1em;
   padding-left: 0.75em;
-  border-left: 0.35em solid #0687f0;
+  border-left: 0.35em solid #00b2cc;
 }
 
 blockquote {
@@ -24,7 +24,7 @@ blockquote {
 
 code[class*='language-'],
 pre[class*='language-'] {
-  color: #e0e0e0;
+  color: #fafafa;
   background: none;
   font-family: 'Fira Code', 'Consolas', 'Monaco', 'Andale Mono', 'Ubuntu Mono',
     monospace;
@@ -91,17 +91,17 @@ pre[class*='language-'] {
 .token.attr-name,
 .token.namespace,
 .token.deleted {
-  color: #e2777a;
+  color: #ec6469;
 }
 
 .token.function-name {
-  color: #6196cc;
+  color: #00b2cc;
 }
 
 .token.boolean,
 .token.number,
 .token.function {
-  color: #ff9100;
+  color: #00eeff;
 }
 
 .token.property,
@@ -116,7 +116,7 @@ pre[class*='language-'] {
 .token.atrule,
 .token.keyword,
 .token.builtin {
-  color: #b388ff;
+  color: #ff4ed3;
 }
 
 .token.string,

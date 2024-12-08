@@ -1,7 +1,7 @@
 ---
 title: 'UXUI는 예술의 영역일까?'
 date: 2024-12-07 22:27:00
-category: '프로덕트'
+category: '아티클'
 draft: false
 ---
 

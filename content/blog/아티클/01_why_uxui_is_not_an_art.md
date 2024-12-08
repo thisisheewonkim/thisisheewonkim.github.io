@@ -5,8 +5,6 @@ category: '아티클'
 draft: false
 ---
 
-<br/>
-
 ![](./images/01-cover.png)
 
 <br/>

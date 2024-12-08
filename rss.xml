@@ -1,20 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[thisisheewonkim]]></title><description><![CDATA[Blog posted about ...]]></description><link>https://thisisheewonkim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 08 Dec 2024 04:05:40 GMT</lastBuildDate><item><title><![CDATA[UXUI는 예술의 영역일까?]]></title><description><![CDATA[UX/UI는 예술 영역인데, 왜 미대에 진학하거나 미술학원에 가지 않으셨어요? 한 번은 나름 인지도 있는 회사에서 실무 면접에서 받은 질문은 지금도 기억에 남는다.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[thisisheewonkim]]></title><description><![CDATA[Blog posted about ...]]></description><link>https://thisisheewonkim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 08 Dec 2024 04:13:15 GMT</lastBuildDate><item><title><![CDATA[UXUI는 예술의 영역일까?]]></title><description><![CDATA[UX/UI는 예술 영역인데, 왜 미대에 진학하거나 미술학원에 가지 않으셨어요? 한 번은 나름 인지도 있는 회사에서 실무 면접에서 받은 질문은 지금도 기억에 남는다.
 이 질문에 대한 내 생각을 블로그에 적어본다. 사용자 개념의 등장부터 UX…]]></description><link>https://thisisheewonkim.github.io/아티클/01_why_uxui_is_not_an_art/</link><guid isPermaLink="false">https://thisisheewonkim.github.io/아티클/01_why_uxui_is_not_an_art/</guid><pubDate>Sat, 07 Dec 2024 22:27:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 480px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1200px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 56.333333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC3ElEQVQozzWSaUuUURiG/RdBEBRR2EolBZWQSJYVtIcRZlZCURgttIgoZIRpkzo6Ne6To2UuUzbO4jvOjGJZpjVUtP2R97xneee5eybow835dnHd537ynMginGgSMh6CivdAxR5CR65zzkFPHoeeKIUOFUO/2gMVLILq2wfZeRRORzmc1qsQnlrYnmayW7phd4xTnhP5AGkloTPvYH6kYT76oWNVMPGTMNESmMndMBPboUe3Qb8ogArsguzaC+k7DqflIsTjW7CbH5DteQrbO8zA6HvI2CTUVBDK8kBbN6HjZTBTBzgMi22FCW+ACeXDDK+DHtgC1VPIwEMMLGfgNYimerIft8FuG8oZzkKlLehPMZjMGMySD26mESZ9GG6iAK61EW50DVuughlZDT24Hqp3B+SzfXDaTjOQazfVMrCFgYM5wxmoVBx6IQyz+Bzms5eBDXBnSxmYz8CVDFwOd2IZzNgKrp0PHdjO/1gCx8tAzxWGMtDzHxhh4GwC5if/4ddRuF+74C7VIPurkVOH7J8GZL9VI5uphjtzlGuvhQ7uhOwp5dpnIFqrIZ7Ukd3qhd3+Imc4B5lkw0wS5rfFhu1wF+7A/V4P91MZsj/vwf1yEe78STYugR7ZDDWUW/swHH8lnPabEG0NJLw8im+E8mRs/t8oMtbPZ9PIo9yASVZwDsJNFcKd3sa1N/HiG/kft0KPF0K/ZLtAGa99Gc7TGoiOJhI+Pht/iIHRBZJxi6T1ilTCR3q6nnTqKpl0OecImdR+MtPFZOJFZMLFpEOlpIZPkAyeJ9l3g5zO+ySeeUn4B8juDucqL7Fdmg/7NZ9NL1SiCXr6LnTqMkzqLJuegkkc4/M5Ah0+Bv36NNToBciha3ACdXB6PRDd3RA9IxB9UzlghmR0ji0jpKaG2LKDLR9wbpNJXuG3irRVSTpWQXqyktSbS6RGr5N8WUtO8BE5AT+J/kESgbckBmboL5IXqXyqe0QrAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 56.333333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC2UlEQVQozzWSaUvUURSH/R4RSFSUQnshFdlmSUVpC+2LlSRKOxFlBhZULqmTljpqo6Zp5biMM//ZnDEka8owgoLqe8z9323OrzNBLw733cNzznNz3OAXSCcBGR2DivZAhR9DB6/xnIWePAg9Xgzt3w49XAjdvxWqZxdkRwnc1lNwm6sgGquRbqxHusmL9LMR5LjBWch4Evr7LMzPaZhUJ7RzESZ8GCZUBDO5CWZ8PfTbNdCDa6F8GyE7d0K2HYTbdAGi4SbS9Q8Z+hxpzxADQx8gQ5Ns2ct2ddDhqzzHYaJ7YCIMc1bDBPJh/MtghpZD966C6trMwL0MPAVRfwWi7j7SDS1ItwxkDd9DTceh5yIwn/th5jthv9yDie2Aja2DjeTBhhbDjuXCvFkE/SoPqnsD5ItdcFuOsSGvXcdrNzQxsD9rOA2VjECnJqA/dcF89cDO3YWdKuRZydAlsM5C2IkFMCO5vPYyaN96vmMRXA8DGysZmr3jf2CQgTMJmN8pmB8B2O9e2G+PkPnTiswvfn/VIvOzGpnPZ2HHl8IM53GcAsiuYl77BETzZYinNRzFw1EGs4YzHMVhwyDbDcJ8qIX5eB02VQb7sQSZ+XLY2b2w8QKYifx/cdRAIdfeD7f9HFvegGh5AOHhKG3DyJEOV3ayUV5CRZ5Ax27ATJ2BSeyDTWxh0FrY6AqOs5KB66BHNkO/ZjvfUa59Ce7zOxCtdRBt/G3a/QwMpUiGoyQjw6RibaTj90knqsgkT/IcIJPYTSa+nUx4K5nANtL+YlJDh0j2lZHbc53cjloSLzwk2nsp7Q0QrzzHdknI8CgbdkPF+OvEb7NhBc9ptj3CxUvZ8AB0oBR69BjU2/OQA1fg+mrgdjdCeL0QXW8geiLZG86TDM2QdIKkIgNs2cqWD3lukZmqJD1VTjp6jrRzhvRkGamxClLvrpEcqia37zG5vnYSL1+R8E2Q6EvSXz2FqI3F9uEmAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;01 cover&quot;
         title=&quot;01 cover&quot;
-        src=&quot;/static/8fca597f5691429531cd4b2b0aa1e5ee/e85cb/01-cover.png&quot;
-        srcset=&quot;/static/8fca597f5691429531cd4b2b0aa1e5ee/5a46d/01-cover.png 300w,
-/static/8fca597f5691429531cd4b2b0aa1e5ee/e85cb/01-cover.png 480w&quot;
-        sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
+        src=&quot;/static/20d440f4b06f3885eb6c364fa5eeeec2/c1b63/01-cover.png&quot;
+        srcset=&quot;/static/20d440f4b06f3885eb6c364fa5eeeec2/5a46d/01-cover.png 300w,
+/static/20d440f4b06f3885eb6c364fa5eeeec2/0a47e/01-cover.png 600w,
+/static/20d440f4b06f3885eb6c364fa5eeeec2/c1b63/01-cover.png 1200w,
+/static/20d440f4b06f3885eb6c364fa5eeeec2/21b4d/01-cover.png 1280w&quot;
+        sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
